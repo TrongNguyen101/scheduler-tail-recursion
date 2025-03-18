@@ -6,5 +6,5 @@
 
 2. **Run the Script**: Execute the `main.py` script to run the project.
     ```sh
-    python main.py
+    python3 main.py
     ```
