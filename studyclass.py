@@ -4,6 +4,7 @@
 # I would create a method to create class on morning or afternoon
 # Stupid code, out of process
 # Stupid developer, go out and take a litle bit of fresh air or drink a cup of coffee
+# What should I do now?
 class StudyClass:
     def __init__(self, timeStudy):
         self.timeStudy = timeStudy
